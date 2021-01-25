@@ -1,7 +1,5 @@
 # CodeRefact_Horiseon_HW1
 
-# Horiseon Website Code Refactor HW
-
 ## The reorganization and simplfication of the website Horiseon code. 
 
 The purpose of this project is to reorganize and simplfy the html & Css code for the Horiseon website. A easy to read and organized html & Css code can assist anyone going into the code for a faster and easy refactoring of the code. Providing comments within the code ensures fastering production times and easy understanding on what was changed, why it was changed, and what was taken out for others developers to better understand. 
