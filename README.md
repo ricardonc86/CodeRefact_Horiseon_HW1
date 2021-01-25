@@ -8,4 +8,4 @@ By conducting this project i understand on why having semantic structure and hav
 <img src=C:\Users\12108\Desktop\CodeRefact_Horiseon_HW1\CodeRefact_Horiseon_HW1\CodeRefact_Horiseon\Develop\assets\images\Web capture_.jpeg/>
 
 
-Deployed link: <a href="http://codepro-ricardonc86.github.io/CodeRefact_Horiseon_HW1/">View Horiseon webpage
+Deployed link: <a href="https://ricardonc86.github.io/CodeRefact_Horiseon_HW1/">View Horiseon webpage
